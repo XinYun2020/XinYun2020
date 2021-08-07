@@ -25,6 +25,18 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 <br />
 
+---
+
+<details>
+  <summary>⭐ Some more...⭐ </summary>
+
+<!--START_SECTION:activity-->
+1. to be done...
+2. to be done...
+<!--END_SECTION:activity-->
+
+</details>
+
 <!--
 **XinYun2020/XinYun2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
