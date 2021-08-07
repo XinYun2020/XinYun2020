@@ -1,4 +1,4 @@
-### 👋Hello World, I'm Xinyun
+### 👋Hello World, nice to met you, I'm Xinyun
 
 - 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
 - 🌱 I’m currently learning everything as always
