@@ -9,6 +9,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
+<br />
 
 - 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
 - 🌱 I’m currently learning everything as always
