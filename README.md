@@ -1,14 +1,4 @@
 ### 👋Hello World, nice to met you, I'm Xinyun
-
-- 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
-- 🌱 I’m currently learning everything as always
-- 🤔 I’m looking for software engineering job
-- ⚡ Fun fact: I love playing darts and ceramic ✨
-- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
-- 🌍 From Shanghai and living in Melbourne
-
-
-### Contact me: <t/> 
 <a target="_blank" href="https://linkedin.com/in/xinyun-zhang-48b7321a1">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,6 +9,13 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
+
+- 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
+- 🌱 I’m currently learning everything as always
+- 🤔 I’m looking for software engineering job
+- ⚡ Fun fact: I love playing darts and ceramic ✨
+- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
+- 🌍 From Shanghai and living in Melbourne
 
 ---
 
