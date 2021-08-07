@@ -1,11 +1,9 @@
 ### 👋Hello World, I'm Xinyun
-[![Profile](https://img.shields.io/github/last-commit/Xinyun2020/Xinyun2020?label=profile%20update&style=for-the-badge)][github]
 
 - 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
 - 🌱 I’m currently learning everything as always
 - 👯 I’m looking to collaborate on software engineering project
 - 🤔 I’m looking for help with software engineering
-- 📫 How to reach me: xinyunzhang2016@gmail.com
 - ⚡ Fun fact: I love playing darts and ceramic ✨
 - 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
 - 🌍 From Shanghai and living in Melbourne
