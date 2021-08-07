@@ -1,13 +1,15 @@
 ### 👋Hello World, I'm Xinyun
 [![Profile](https://img.shields.io/github/last-commit/Xinyun2020/Xinyun2020?label=profile%20update&style=for-the-badge)][github]
 
-- 🔭 I’m currently working on guraduation
+- 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
 - 🌱 I’m currently learning everything as always
 - 👯 I’m looking to collaborate on software engineering project
 - 🤔 I’m looking for help with software engineering
 - 📫 How to reach me: xinyunzhang2016@gmail.com
 - ⚡ Fun fact: I love playing darts and ceramic ✨
 - 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
+- 🌍 From Shanghai and living in Melbourne
+
 
 ### Contact me: <t/> 
 <a target="_blank" href="https://linkedin.com/in/xinyun-zhang-48b7321a1">
@@ -21,7 +23,12 @@
 </a>
 <br />
 
-### Languages and Tools:
+---
+
+<details>
+  <summary>💻 Main Languages and Tools </summary>
+
+<!--START_SECTION:activity-->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
@@ -37,23 +44,24 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="26" >
 <br />
+<!--END_SECTION:activity-->
 
----
+</details>
 
 <details>
-  <summary>⭐ Some more...⭐ </summary>
+  <summary>⭐ Some more... </summary>
 
 <!--START_SECTION:activity-->
 1. to be done...
 2. to be done...
+<!--END_SECTION:activity-->
+
+</details>
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
 </p>
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <!--
 **XinYun2020/XinYun2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
