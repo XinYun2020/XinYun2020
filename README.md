@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
 - 🌱 I’m currently learning everything as always
-- 👯 I’m looking to collaborate on software engineering project
-- 🤔 I’m looking for help with software engineering
+- 🤔 I’m looking for software engineering job
 - ⚡ Fun fact: I love playing darts and ceramic ✨
 - 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
 - 🌍 From Shanghai and living in Melbourne
