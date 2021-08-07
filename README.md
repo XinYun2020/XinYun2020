@@ -1,4 +1,5 @@
 ### Hi there, I'm Xinyun 👋
+[![Profile](https://img.shields.io/github/last-commit/Xinyun2020/Xinyun2020?label=profile%20update&style=for-the-badge)][github]
 
 - 🔭 I’m currently working on guraduation
 - 🌱 I’m currently learning everything as always
