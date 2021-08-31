@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything as always
 - 🤔 I’m looking for software engineering job...
 - ⚡ Fun fact: I love playing darts and ceramic ✨
-- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S
+- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S, Muse Dash
 - 🌍 From Shanghai and living in Melbourne
 
 ---
