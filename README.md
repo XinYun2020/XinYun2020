@@ -1,4 +1,4 @@
-### 👋Hello World, nice to meet you, I'm Xinyun
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello World, nice to meet you, I'm Xinyun
 <a target="_blank" href="https://linkedin.com/in/xinyun-zhang-48b7321a1">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
