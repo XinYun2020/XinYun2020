@@ -11,7 +11,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on graduation from Bachelor of Software Engineering in Monash University
+- 🇦🇺� I graduated with a Bachelor of Software Engineering (Honours) from Monash University.
+- 🔭 Currently studying Master of Information Technology in The University of Melbourne
 - 🌱 I’m currently learning everything as always
 - 🤔 I’m looking for software engineering job...
 - ⚡ Fun fact: I love playing darts and ceramic ✨
