@@ -12,11 +12,11 @@
 <br />
 
 - 🇦🇺 I graduated with a Bachelor of Software Engineering (Honours) from Monash University.
-- 🔭 Currently studying Master of Information Technology in The University of Melbourne
+- 🔭 Currently studying Master of Data Science in The University of Melbourne
 - 🌱 I’m currently learning everything as always
 - 🤔 I’m looking for software engineering job...
 - ⚡ Fun fact: I love playing darts and ceramic ✨
-- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S, Muse Dash
+- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S, Muse Dash, Jack Jeanne
 - 🌍 From Shanghai and living in Melbourne
 
 ---
