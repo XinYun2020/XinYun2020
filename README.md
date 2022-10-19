@@ -54,6 +54,9 @@
 
 </details>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyun2020&show_icons=true&locale=en&layout=compact" alt="xinyun2020" /></p>
+
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
