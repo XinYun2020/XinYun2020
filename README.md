@@ -15,8 +15,8 @@
 - 🔭 Currently studying Master of Data Science in The University of Melbourne
 - 🌱 I’m currently learning everything as always
 - 🤔 I’m looking for software engineering job...
-- ⚡ Fun fact: I love playing darts and ceramic ✨
-- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Persona 5 S, Muse Dash, Jack Jeanne
+- ⚡ Fun fact: I love building keyboards, play darts, and ceramic ✨
+- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5 S
 - 🌍 From Shanghai and living in Melbourne
 
 ---
