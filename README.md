@@ -11,7 +11,7 @@
 <br />
 <br />
 
-- 📖 Master of Data Science student at the University of Melbourne, diving deep into full-stack development, data science, and machine learning
+- 📖 Master of Data Science from the University of Melbourne, diving deep into full-stack development, data science, and machine learning
 - 🎓 Bachelor of Software Engineering (Honours) from Monash University
 - 🌱 Lifelong learner with a passion for blending creative problem-solving and technical skills
 - 💻 Full Stack Developer by profession, with a growing portfolio in data science and machine learning
