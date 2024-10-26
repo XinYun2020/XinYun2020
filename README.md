@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>⭐ Some more comming soon </summary>
+  <summary>⭐ Some more coming soon </summary>
 
 <!--START_SECTION:activity-->
 1. ⭐⭐⭐
