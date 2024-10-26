@@ -1,23 +1,20 @@
-### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello World, nice to meet you, I'm Xinyun
-<a target="_blank" href="https://linkedin.com/in/xinyun-zhang-48b7321a1">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://instagram.com/zhangxinyun23">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello World, nice to meet you! I'm Xinyun
+<a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
+  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
 </a>
 <a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
 </a>
 <br />
 <br />
 
-- 📖 Master of Data Science from the University of Melbourne, diving deep into full-stack development, data science, and machine learning
-- 🎓 Bachelor of Software Engineering (Honours) from Monash University
-- 🌱 Lifelong learner with a passion for blending creative problem-solving and technical skills
-- 💻 Full Stack Developer by profession, with a growing portfolio in data science and machine learning
-- 🎯 Fun Facts: I’m all about building keyboards, a serious darts player, and a ceramic enthusiast!
-- 🎮 Switch Gamer: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
-- 🌍 From Shanghai, calling Melbourne home while chasing new tech adventures
+- 📖 **Master of Data Science** at the University of Melbourne, diving into full-stack development, data science, and machine learning
+- 🎓 **Bachelor of Software Engineering (Honours)** from Monash University
+- 🌱 Lifelong learner, passionate about blending creative problem-solving with technical expertise
+- 💻 **Full Stack Developer** by profession, with a growing portfolio in data science and machine learning
+- 🎯 **Fun Facts**: I’m all about building custom keyboards, serious about darts, and a ceramic enthusiast!
+- 🎮 **Switch Gamer**: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
+- 🌍 From Shanghai, now calling Melbourne home while chasing new tech adventures
 
 ---
 
