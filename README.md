@@ -11,13 +11,13 @@
 <br />
 <br />
 
-- 🇦🇺 I graduated with a Bachelor of Software Engineering (Honours) from Monash University.
-- 🔭 Currently studying Master of Data Science in The University of Melbourne
-- 🌱 I’m currently learning everything as always
-- 🤔 I’m looking for software engineering job...
-- ⚡ Fun fact: I love building keyboards, play darts, and ceramic ✨
-- 🎮 Switch Player: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5 S
-- 🌍 From Shanghai and living in Melbourne
+- 📖 Master of Data Science student at the University of Melbourne, diving deep into full-stack development, data science, and machine learning
+- 🎓 Bachelor of Software Engineering (Honours) from Monash University
+- 🌱 Lifelong learner with a passion for blending creative problem-solving and technical skills
+- 💻 Full Stack Developer by profession, with a growing portfolio in data science and machine learning
+- 🎯 Fun Facts: I’m all about building keyboards, a serious darts player, and a ceramic enthusiast!
+- 🎮 Switch Gamer: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
+- 🌍 From Shanghai, calling Melbourne home while chasing new tech adventures
 
 ---
 
