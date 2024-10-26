@@ -45,11 +45,10 @@
 </details>
 
 <details>
-  <summary>⭐ Some more... </summary>
+  <summary>⭐ Some more comming soon </summary>
 
 <!--START_SECTION:activity-->
-1. to be done...
-2. to be done...
+1. ⭐⭐⭐
 <!--END_SECTION:activity-->
 
 </details>
