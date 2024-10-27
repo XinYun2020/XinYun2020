@@ -71,12 +71,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Metrics](https://github.com/XinYun2020/XinYun2020/blob/master/github-metrics.svg)](https://github.com/XinYun2020)
 -->
 
 [github]: https://github.com/XinYun2020
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/zhangxinyun23
 [linkedin]: https://linkedin.com/in/xinyun-zhang-48b7321a1
-
-
-[![Metrics](https://github.com/XinYun2020/XinYun2020/blob/master/github-metrics.svg)](https://github.com/XinYun2020)
