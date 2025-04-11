@@ -1,4 +1,5 @@
-### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!)
+### ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!)
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Xinyun!
 
 <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
   <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
