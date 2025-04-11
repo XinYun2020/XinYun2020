@@ -33,7 +33,7 @@
   <summary>💻 Main Languages and Tools </summary>
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp,r,react,java,postgresql,mysql,git,bash,swift&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp,r,react,java,postgresql,mysql,git,bash,swift,html,css,nodejs,figma,aws,azure,vue,kubernetes,angular,ansible,arch,babel,bitbucket,bun,deno,django,dotnet,eclipse,elasticsearch,electron,express,firebase,flask,go,graphql,jest,jenkins,latex,mangodb,neovim,nextjs,obsidian,openshift,pnpm,postman,powershell,prisma,pytorchredhat,vite,vitest&theme=dark&perline=20)](https://skillicons.dev)
 
 </details>
 
