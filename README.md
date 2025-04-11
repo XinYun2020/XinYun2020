@@ -3,7 +3,9 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 -->
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!++++++++++)
+</div>
+
 
 <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
   <img alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
@@ -11,7 +13,6 @@
 <a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
   <img alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
 </a>
-</div>
 
 <br />
 <br />
