@@ -1,4 +1,5 @@
-### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello World, nice to meet you! I'm Xinyun
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!)
+
 <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
   <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
 </a>
@@ -15,8 +16,6 @@
 - 🎯 **Fun Facts**: I’m all about building custom keyboards, serious about darts, and a ceramic enthusiast!
 - 🎮 **Switch Gamer**: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
 - 🌍 From Shanghai, now calling Melbourne home while chasing new tech adventures
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
 
 ---
 
