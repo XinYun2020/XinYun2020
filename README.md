@@ -1,3 +1,4 @@
+<div align="center">
 ### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello World, nice to meet you! I'm Xinyun
 <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
   <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
@@ -83,3 +84,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/zhangxinyun23
 [linkedin]: https://linkedin.com/in/xinyun-zhang-48b7321a1
+
+</div>
