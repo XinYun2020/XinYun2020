@@ -26,7 +26,7 @@
   <summary>💻 Main Languages and Tools </summary>
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp,r,react,sql,mysql,git,bash,swift&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp,r,react,java,postgresql,mangodb,couchdb,mysql,git,bash,swift&theme=dark&perline=7)](https://skillicons.dev)
 
 </details>
 
