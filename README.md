@@ -3,9 +3,7 @@
 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 -->
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!++++++++++)
-</div>
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World,+Nice+to+meet+you!+I'm+Xinyun!+👋+👋+👋)
 
 <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
   <img alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
@@ -13,6 +11,8 @@
 <a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
   <img alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
 </a>
+
+</div>
 
 <br />
 <br />
@@ -34,15 +34,6 @@
 
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp,r,react,java,postgresql,mysql,git,bash,swift&theme=dark&perline=7)](https://skillicons.dev)
-
-</details>
-
-<details>
-  <summary>⭐ Some more coming soon </summary>
-
-<!--START_SECTION:activity-->
-1. ⭐⭐⭐
-<!--END_SECTION:activity-->
 
 </details>
 
