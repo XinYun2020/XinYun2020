@@ -16,6 +16,8 @@
 - 🎮 **Switch Gamer**: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
 - 🌍 From Shanghai, now calling Melbourne home while chasing new tech adventures
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
+
 ---
 
 <details>
