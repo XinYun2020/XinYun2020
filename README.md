@@ -17,7 +17,7 @@
 ---
 
 <details>
-  <summary>💻 Main Languages and Tools </summary>
+<summary align="center"> 💻 Main Languages and Tools </summary>
 
 👨‍💻 Programming Languages
 
