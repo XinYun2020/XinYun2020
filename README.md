@@ -38,11 +38,11 @@
 
 🧠 AI / Data Science / ML
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,nltk,spacy&theme=dark&perline=20)](https://skillicons.dev)
 
 🛠️ Development Tools / IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,eclipse,neovim,vim,obsidian&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,neovim,vim,visualstudio,obsidian&theme=dark&perline=20)](https://skillicons.dev)
 
 📦 Package / Dependency Management
 
@@ -58,7 +58,7 @@
 
 💻 Operating Systems / Environments
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,macos,windows,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mac,windows,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
 
 📡 Cloud / DevOps / Infra
 
@@ -69,12 +69,11 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,stackoverflow,gmail,latex,postman,powershell,elasticsearch,electron,jest,figma&theme=dark&perline=20)](https://skillicons.dev)
 </details>
 
+<div align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyun2020&show_icons=true&locale=en&layout=compact" alt="xinyun2020" /></p>
-
-
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>-->
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
+</div>
 
 <!--
 **XinYun2020/XinYun2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
