@@ -60,7 +60,7 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyun2020&show_icons=true&locale=en&layout=compact" alt="xinyun2020" />
-  
+<br />  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
 
 </div>
