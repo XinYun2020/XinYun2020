@@ -1,17 +1,16 @@
 <div align="center">
-<!--
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
--->
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=27EBF7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+World%2C+Nice+to+meet+you!;I'm+Xinyun" alt="Typing SVG" /></a>
-
-<a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
-  <img alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
-</a>
-<a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
-  <img alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
-</a>
-
+  <!--
+  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=27EBF7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+World%2C+Nice+to+meet+you!;I'm+Xinyun" alt="Typing SVG" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
+    <img alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
+  </a>
+  <a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
+    <img alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
+  </a>
 </div>
 
 <br />
@@ -27,18 +26,16 @@
 
 ---
 
-
 <details>
   <summary>💻 Main Languages and Tools </summary>
 
-<!-- Skills Emoji -->
 👨‍💻 Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,go,bash,java,rust,r,matlab,swift&theme=dark&perline=20)](https://skillicons.dev)
 
 🧠 AI / Data Science / ML
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,nltk,spacy&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=20)](https://skillicons.dev)
 
 🛠️ Development Tools / IDEs
 
@@ -58,7 +55,7 @@
 
 💻 Operating Systems / Environments
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mac,windows,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,windows,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
 
 📡 Cloud / DevOps / Infra
 
@@ -67,12 +64,12 @@
 🧰 Other Tools & Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,stackoverflow,gmail,latex,postman,powershell,elasticsearch,electron,jest,figma&theme=dark&perline=20)](https://skillicons.dev)
+
 </details>
 
 <div align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyun2020&show_icons=true&locale=en&layout=compact" alt="xinyun2020" /></p>
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinyun2020&show_icons=true&locale=en&layout=compact" alt="xinyun2020" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
 </div>
 
 <!--
