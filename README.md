@@ -34,11 +34,11 @@
 <!-- Skills Emoji -->
 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,r,java,swift,go,bash&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,go,bash,java,rust,r,matlab,swift&theme=dark&perline=20)](https://skillicons.dev)
 
 🧠 AI / Data Science / ML
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=20)](https://skillicons.dev)
 
 🛠️ Development Tools / IDEs
 
@@ -46,7 +46,7 @@
 
 📦 Package / Dependency Management
 
-[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,bun,deno,pip,anaconda&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,bun,deno,anaconda&theme=dark&perline=20)](https://skillicons.dev)
 
 🌐 Frontend Frameworks / Tools
 
@@ -58,7 +58,7 @@
 
 💻 Operating Systems / Environments
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,macos,windows,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
 
 📡 Cloud / DevOps / Infra
 
@@ -73,7 +73,7 @@
 
 
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=xinyun2020.xinyun2020" alt="visitor badge"/>       
 </p>
 
 <!--
