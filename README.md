@@ -33,30 +33,39 @@
 
 <!-- Skills Emoji -->
 👨‍💻 Programming Languages
+
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,rust,matlab,r,java,swift,go,bash&theme=dark&perline=20)](https://skillicons.dev)
 
 🧠 AI / Data Science / ML
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark&perline=20)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda&theme=dark&perline=20)](https://skillicons.dev)
 
 🛠️ Development Tools / IDEs
+
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,eclipse,neovim,vim,obsidian&theme=dark&perline=20)](https://skillicons.dev)
 
 📦 Package / Dependency Management
+
 [![My Skills](https://skillicons.dev/icons?i=npm,pnpm,bun,deno,pip,anaconda&theme=dark&perline=20)](https://skillicons.dev)
 
 🌐 Frontend Frameworks / Tools
+
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,nextjs,vite,vitest,babel,html,css&theme=dark&perline=20)](https://skillicons.dev)
 
 🌍 Backend Frameworks / Platforms
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet,firebase,graphql,prisma&theme=dark&perline=20)](https://skillicons.dev)
 
 💻 Operating Systems / Environments
+
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,raspberrypi&theme=dark&perline=20)](https://skillicons.dev)
 
 📡 Cloud / DevOps / Infra
+
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins,aws,azure,gcp,openshift&theme=dark&perline=20)](https://skillicons.dev)
 
 🧰 Other Tools & Platforms
+
 [![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,stackoverflow,gmail,latex,postman,powershell,elasticsearch,electron,jest,figma&theme=dark&perline=20)](https://skillicons.dev)
 </details>
 
