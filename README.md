@@ -2,16 +2,9 @@
   <!--
   <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
   -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=27EBF7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+World%2C+Nice+to+meet+you!;I'm+Xinyun" alt="Typing SVG" />
-  </a>
-
-  <a target="_blank" href="https://www.linkedin.com/in/xinyun2020/">
-    <img alt="Linkedin" width="22px" src="https://img.icons8.com/ios-filled/ffffff/linkedin.png"/>
-  </a>
-  <a target="_blank" href="mailto:xinyunzhang2016@gmail.com">
-    <img alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/ffffff/gmail.png"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=27EBF7&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+World%2C+Nice+to+meet+you!;I'm+Xinyun" alt="Typing SVG" />
+</a>
 
 </div>
 
