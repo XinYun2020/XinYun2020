@@ -6,13 +6,23 @@
 
 </div>
 
-- 📖 **Master of Data Science** at the University of Melbourne, diving into full-stack development, data science, and machine learning
-- 🎓 **Bachelor of Software Engineering (Honours)** from Monash University
-- 🌱 Lifelong learner, passionate about blending creative problem-solving with technical expertise
-- 💻 **Full Stack Developer** by profession, with a growing portfolio in data science and machine learning
-- 🎯 **Fun Facts**: I’m all about building custom keyboards, serious about darts, and a ceramic enthusiast!
-- 🎮 **Switch Gamer**: ACNH, Mario Kart 8, Zelda, Muse Dash, Jack Jeanne, Persona 5
-- 🌍 From Shanghai, now calling Melbourne home while chasing new tech adventures
+**Full Stack Developer & Data Scientist** with a growing expertise in machine learning and AI applications. Currently pursuing a **Master of Data Science** at the University of Melbourne, building upon a solid foundation from my **Bachelor of Software Engineering (Honours)** from Monash University.
+
+My professional journey combines technical development with data-driven innovation, focusing on practical applications of machine learning technologies in real-world scenarios. My interdisciplinary background enables me to bridge the gap between software engineering principles and advanced data analytics.
+
+**Research Interests:**
+* Machine Learning algorithms and applications
+* Full-stack development for data-intensive applications
+* Data visualization and interpretability
+
+**Technical Background:**
+* Software engineering and system architecture
+* Statistical analysis and predictive modeling
+* Web application development with modern frameworks
+
+Originally from Shanghai and now based in Melbourne, I bring a global perspective to technical problem-solving. Outside professional pursuits, I enjoy crafting custom keyboards and exploring ceramic design – creative outlets that complement my technical mindset.
+
+Actively seeking collaborations and opportunities to contribute to meaningful projects in the machine learning community.
 
 ---
 
@@ -21,7 +31,7 @@
 
 👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,go,bash,java,rust,r,matlab,swift&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,py,go,bash,java,r,matlab,swift&theme=dark&perline=20)](https://skillicons.dev)
 
 🧠 AI / Data Science / ML
 
@@ -29,19 +39,19 @@
 
 🛠️ Development Tools / IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse,neovim,vim,visualstudio,obsidian&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,vim,obsidian&theme=dark&perline=20)](https://skillicons.dev)
 
 📦 Package / Dependency Management
 
-[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,bun,deno,anaconda&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,pnpm,bun,deno&theme=dark&perline=20)](https://skillicons.dev)
 
 🌐 Frontend Frameworks / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,nextjs,vite,vitest,babel,html,css&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,vite,vitest&theme=dark&perline=20)](https://skillicons.dev)
 
 🌍 Backend Frameworks / Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet,firebase,graphql,prisma&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet,firebase,graphql,prisma,springboot&theme=dark&perline=20)](https://skillicons.dev)
 
 💻 Operating Systems / Environments
 
@@ -53,7 +63,7 @@
 
 🧰 Other Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,stackoverflow,gmail,latex,postman,powershell,elasticsearch,electron,jest,figma&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,bitbucket,latex,postman,powershell,elasticsearch,electron,jest,figma&theme=dark&perline=20)](https://skillicons.dev)
 
 </details>
 
